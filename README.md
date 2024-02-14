@@ -1,7 +1,3 @@
-Programming Language : Javascript,J2EE(JSP + Servlets),J2SE,HTML, CSS, Bootstrap.
+Tech :- J2SE, J2EE (JSP + Servlets), Spring boot , HTML, CSS, JavaScript, Bootstrap, MySQL.
 
-Database : MySQL
-
-Summary : This is a project for Vegetable Store . A user can perform many kinds of
-management tasks to manage online booking. Also, users can view all booking details in
-cart . It also removes and add product in the cart and wishlist
+Project Details : The "Online Vegetable Store Website" project aims to create an e-commerce platform where users can conveniently purchase fresh vegetables online. The website will offer a user-friendly interface with categories for various types of vegetables, allowing customers to browse through a wide selection of products. Users will be able to add items to their cart, specify quantities, and proceed to checkout securely. The website will also include features such as customer accounts, order tracking, and payment processing integration to enhance the overall shopping experience. Admin functionalities will allow for managing product inventory, updating prices, and processing orders efficiently. With this website, customers can easily access high-quality vegetables from the comfort of their homes, promoting convenience and healthy eating habits.
